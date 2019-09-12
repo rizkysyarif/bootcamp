@@ -16,7 +16,7 @@ echo"<br>";
 }
 }
 
-echo  jumlah(5);
+echo jumlah(5);
 
 ?>
 
